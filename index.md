@@ -22,5 +22,5 @@ currently:
   - label: Building
     text: "A job match analysis dashboard page for college students"
   - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+    text: "How to get better at Call of Duty"
 ---
