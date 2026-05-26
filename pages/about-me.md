@@ -21,14 +21,14 @@ about:
 
   hobbies:
     - icon: 🎮
-      title: Digital Art
+      title: Gaming
       description: I play a lot of console and mobile games in my spare time
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
-    - icon: 📚
+    - icon: 🥾
+      title: Hiking
+      description: Long trails are things often complete.
+    - icon: ⚽️
       title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+      description: A lifelong Arsenal fan and I play pickup a lot!
 
   gallery:
     - image: /assets/images/gallery-1.svg
