@@ -12,15 +12,15 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 I love soccer"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://www.linkedin.com/in/oluwasegun-soji-john
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
   - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+    text: "The Subtle Art of Not Giving a F*ck- Mark Manson"
   - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
+    text: "A job match analysis dashboard page for college students"
   - label: Wondering
     text: "How accessibility research can shape consumer hardware"
 ---
