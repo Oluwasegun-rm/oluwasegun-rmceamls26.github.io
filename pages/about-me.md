@@ -4,10 +4,10 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
+  name: Oluwasegun Soji-John
   role: Junior, Computer Science
   image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/oluwasegun-soji-john
   bio: |
     Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
