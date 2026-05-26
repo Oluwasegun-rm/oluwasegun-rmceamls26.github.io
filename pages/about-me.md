@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Oluwasegun Soji-John
   role: Junior, Computer Science
-  image: /assets/images/profile.svg
+  image: assets/images/sege (1).jpg
   linkedin: https://www.linkedin.com/in/oluwasegun-soji-john
   bio: |
     Hi! I'm Oluwasegun, a Computer Science student in the CEAMLS SAIRI Summer Research program.
