@@ -11,17 +11,18 @@ about:
   bio: |
     Hi! I'm Oluwasegun, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+
+    
+    My research interests lie in artificial intelligence, backend systems, and applied machine learning. I am especially interested in builiding intelligent software that improves how people interact with complex systems and everyday technology. sit at the intersection of human-computer interaction and applied
+    machine learning. 
+
+    Outside of academics, you'll find me organizing hackathons, hiking trails, playing soccer or playing games. 
 
   hobbies:
-    - icon: 🎨
+    - icon: 🎮
       title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
+      description: I play a lot of console and mobile games in my spare time
     - icon: 🚲
       title: Biking
       description: Weekend trail rides are how I reset.
