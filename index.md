@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I love soccer"
 
 linkedin: https://www.linkedin.com/in/oluwasegun-soji-john
-image: /assets/images/profile.svg
+image: assets/images/sege (1).jpg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
