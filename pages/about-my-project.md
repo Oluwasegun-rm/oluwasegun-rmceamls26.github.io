@@ -1,9 +1,9 @@
 ---
 layout: project
-title: BioPersona Physiologically Grounded Patient Simulation for Safety Evaluation of Clinical Dialogue Systems.
+title: My project
 permalink: /about-my-project.html
 
-subtitle: Human-Computer Interaction & Adaptive Systems
+subtitle: BioPersona Physiologically Grounded Patient Simulation for Safety Evaluation of Clinical Dialogue Systems.
 project_title: "My Summer Research Project"
 
 problem: |
