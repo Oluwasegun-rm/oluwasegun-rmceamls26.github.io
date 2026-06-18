@@ -13,8 +13,7 @@ graduate_mentor:
 
 
 
-    Outside of research, Alex organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+    
 
 faculty_mentor:
   name: Dr. Jamell Dacon
@@ -24,6 +23,5 @@ faculty_mentor:
   bio: |
     Dr. Jamell Dacon is a (Tenure-Track) Assistant Professor in the Department of Computer Science at Morgan State University, where I serve as the Director & Lead Principal Investigator of the Machine Intelligence and Data Science (MINDS) Lab, and a faculty at the Center for Equitable Artificial Intelligence and Machine Learning Systems (CEAMLS).
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
+    Dr. Dacon enjoys extracting information from data.
 ---
