@@ -6,12 +6,12 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Ricky Gole
   title: Masters Student, Advanced Computing
-  image: /assets/images/graduate-student-mentor.svg
+  image: /assets/images/graduate-student-mentor.jpg
   website: https://example.com/alex-morgan
   bio: |
-    Alex is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
+    Ricky Gole is a graduate machine learning researcher at Morgan State University specializing in natural language processing and retrieval-augmented generation systems. His work focuses on improving the reliability of large language models by addressing hallucination, semantic drift, and personalization failures in real-world applications. He has analyzed over 15.8 million user interactions to study the relationship between behavioral signals and semantic meaning, and has designed hybrid retrieval architectures that outperform zero-shot LLM baselines. His research integrates large-scale data analysis, semantic embedding models, and transformer-based architectures to develop LLM systems that are accurate, grounded in evidence, and empirically validated.
+
+
 
     Outside of research, Alex organizes weekly reading groups and is a strong advocate
     for undergraduate research participation.
