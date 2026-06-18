@@ -4,8 +4,8 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Alex Morgan
-  title: PhD Candidate, Computer Engineering
+  name: Ricky Gole
+  title: Masters Student, Advanced Computing
   image: /assets/images/graduate-student-mentor.svg
   website: https://example.com/alex-morgan
   bio: |
@@ -17,8 +17,8 @@ graduate_mentor:
     for undergraduate research participation.
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  title: Associate Professor, School of Engineering
+  name: Dr. Jamell Dacon
+  title: Assistant Professor, School of Computer Natural and Mathematical Sciences
   image: /assets/images/faculty-mentor.svg
   website: https://example.com/pat-nguyen
   bio: |
