@@ -31,10 +31,10 @@ about:
       description: A lifelong Arsenal fan and I play pickup a lot!
 
   gallery:
-    - image: /assets/images/segs.jpeg
-      caption: First institute day
+    - image: /assets/images/four.jpeg
+      caption: Four Goals
     - image: /assets/images/Championes.jpg
       caption: Best Team in the World!
-    - image: /assets/images/cod.jpeg
-      caption: Game I play the most
+    - image: /assets/images/segs.jpeg
+      caption: First institute day
 ---
